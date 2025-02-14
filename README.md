@@ -6,7 +6,7 @@
         <li><strong>Interests:</strong> Drawing, Painting, Digital Art</li>
         <li><strong>Currently Learning:</strong> Advanced Painting Techniques</li>
         <li><strong>Looking to Collaborate On:</strong> Art Projects, Creative Workshops</li>
-        <li><strong>How to Reach Me:</strong> <a href="mailto:christopher@example.com">christopher@example.com</a></li>
+        <li><strong>How to Reach Me:</strong> <a href="mailto:christophercustona26@gmail.com">christopher@example.com</a></li>
         <li><strong>Pronouns:</strong> He/Him</li>
         <li><strong>Fun Fact:</strong> I once painted a mural that covered an entire building!</li>
     </ul>
